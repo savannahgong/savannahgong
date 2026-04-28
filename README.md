@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:savannah.gong1@gmail.com)
 
 ## 🚀 About Me
-Junior Computer Science student passionate about **Machine Learning** and **AI Ethics**. Cornell Machine Learning Foundations Certified through Break Through Tech. Seeking Summer 2025 ML/AI internships to create positive impact through ethical AI development.
+Senior Computer Science student passionate about **Machine Learning** and **AI Ethics**. Cornell Machine Learning Foundations Certified through Break Through Tech.
 
 ```diff
 + Current Focus: ML model interpretability | AI fairness | NLP applications
